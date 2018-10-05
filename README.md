@@ -1,4 +1,4 @@
-#Welcome to MDB Socials Part 1!
+Welcome to MDB Socials Part 1!
 
 This app allows users to create new socials events and organizes upcoming events. The following features are included:
 
